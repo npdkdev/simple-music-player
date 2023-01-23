@@ -1,32 +1,32 @@
 [
   {
-    "song":"Hey Jude",
-    "song_details":"The Beatles",
+    "song_name":"Hey Jude",
+    "artist":"The Beatles",
     "thumb":"https://raw.githubusercontent.com/npdkdev/simple-music-player/main/thumb/hey_jude.webp",
     "stream":"https://raw.githubusercontent.com/npdkdev/simple-music-player/main/sounds/hey_jude.mp3"
   },{
-    "song":"Reckless",
-    "song_details":"Madison Beer",
+    "song_name":"Reckless",
+    "artist":"Madison Beer",
     "thumb":"https://raw.githubusercontent.com/npdkdev/simple-music-player/main/thumb/reckless.webp",
     "stream":"https://raw.githubusercontent.com/npdkdev/simple-music-player/main/sounds/reckless.mp3"
   },{
-    "song":"Sunflower",
-    "song_details":"Post Malone, Swae Lee",
+    "song_name":"Sunflower",
+    "artist":"Post Malone, Swae Lee",
     "thumb":"https://raw.githubusercontent.com/npdkdev/simple-music-player/main/thumb/sunflower.webp",
     "stream":"https://raw.githubusercontent.com/npdkdev/simple-music-player/main/sounds/sunflower.mp3"
   },{
-    "song":"Vival La Vida",
-    "song_details":"Coldplay",
+    "song_name":"Vival La Vida",
+    "artist":"Coldplay",
     "thumb":"https://raw.githubusercontent.com/npdkdev/simple-music-player/main/thumb/viva_la_vida.webp",
     "stream":"https://raw.githubusercontent.com/npdkdev/simple-music-player/main/sounds/viva_la_vida.mp3"
   },{
-    "song":"Closer",
-    "song_details":"The Chainsmokers",
+    "song_name":"Closer",
+    "artist":"The Chainsmokers",
     "thumb":"https://raw.githubusercontent.com/npdkdev/simple-music-player/main/thumb/closer.webp",
     "stream":"https://raw.githubusercontent.com/npdkdev/simple-music-player/main/sounds/closer.mp3"
   },{
-    "song":"Numb",
-    "song_details":"Linkin Park",
+    "song_name":"Numb",
+    "artist":"Linkin Park",
     "thumb":"https://raw.githubusercontent.com/npdkdev/simple-music-player/main/thumb/numb.webp",
     "stream":"https://raw.githubusercontent.com/npdkdev/simple-music-player/main/sounds/numb.mp3"
   }
